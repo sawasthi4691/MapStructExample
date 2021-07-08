@@ -1,0 +1,36 @@
+
+// User :
+{
+  "firstName": "saurabh",
+  "lastName" : "awasthi",
+  "age" : 30,
+  "dob" : "1991-06-04",
+  "mobile" : 8220423941,
+  "address" : {
+    "city" : "kanpur",
+    "state" : "U.P",
+    "pincode" : 208027,
+    "line1" : "C-924 world bank barra",
+    "line2" : "near barra post office"
+  }
+}
+
+
+
+//Address :
+[
+  {
+    "city" : "kanpur",
+    "state" : "U.P",
+    "pincode" : 208027,
+    "line1" : "C-924 world bank barra",
+    "line2" : "near barra post office"
+  },
+  {
+    "city" : "lko",
+    "state" : "U.P",
+    "pincode" : 308091,
+    "line1" : "C-924 world bank barra",
+    "line2" : "near barra post office"
+  }
+]
