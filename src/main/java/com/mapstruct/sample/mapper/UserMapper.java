@@ -53,9 +53,7 @@ public interface UserMapper {
     //Will take List
     List<AddressDto> addressToAddressDTOs(List<Address> addressList);
 
-
     //check UserMappingImpl.class created inside target folder.
-
     @Mapping(target = "firstName",ignore = true)
     @Mapping(target = "lastName" , ignore = true)
     public void update(@MappingTarget  User user, UserDto userDto);
