@@ -1,0 +1,2 @@
+# mapStructExample
+map Struct Example
